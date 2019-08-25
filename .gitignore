@@ -1,0 +1,6 @@
+.dub
+*.exe
+_data
+dub.selections.json
+.vscode/sftp.json
+

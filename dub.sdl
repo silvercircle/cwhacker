@@ -1,0 +1,4 @@
+name "componentwhacker"
+targetType "executable"
+sourcePaths "."
+buildRequirements "silenceDeprecations"
